@@ -1,6 +1,23 @@
 # AussieBroadband Usage Meter
 AussieBroadband usage meter skin for Rainmeter.
 
+
+
+
+
+
+Superceded by [https://github.com/DavidFW1960/Aussie-Broadband-Usage-Meter](https://github.com/DavidFW1960/Aussie-Broadband-Usage-Meter)
+Please use that instead.
+
+
+
+
+
+
+
+---------------
+
+
 Originally made by Kanine and adapted for Aussie Broadband by HD on the whirlpool forums
  - [Bigpond Usage Meters](https://forums.whirlpool.net.au/forum-replies.cfm?t=1942079&p=9#r170)
  - [Aussie Broadband Usage Meters](https://forums.whirlpool.net.au/forum-replies.cfm?t=2679153&r=55439756#r55439756)
